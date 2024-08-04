@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "notebook.defaultFormatter": "ms-python.autopep8",
+  "notebook.formatOnSave.enabled": true,
+}

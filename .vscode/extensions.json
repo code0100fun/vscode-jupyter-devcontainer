@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-toolsai.jupyter",
+    "ms-python.autopep8",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "shardulm94.trailing-spaces",
+    "emmanuelbeziat.vscode-great-icons",
+    "github.copilot-chat",
+    "github.copilot"
+  ],
+}

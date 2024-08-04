@@ -1,0 +1,3 @@
+# Python Notebook Devcontainer Starter
+
+This project provides a starter template for setting up a Python development environment using Devcontainers. It includes a pre-configured Jupyter Notebook environment, making it easy to start developing and testing Python code in a consistent and isolated environment. The setup leverages Visual Studio Code's Devcontainer feature to ensure that all dependencies and configurations are automatically managed.
